@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Krishna Pranav Kuchimanchi</h1>
-<h3 align="center">I'm An aspiring Software Developer</h3>
+<h3 align="center">I'm An aspiring Software Engineer</h3>
 
-- 🔭 I’m currently studying in **CDAC - Sunbeam Infotech, Hinjewadi, Pune**
+- 🔭 I’m open to work and looking for opportunities
 
-- 🌱 I’m currently learning **Spring MVC, Spring BOOT**
+- 🌱 I’m currently working on Java and Python Languages, Developing Projects and working on my Coding Skills
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with my Job Search
 
 - 👨‍💻 All of my projects are available at [https://github.com/prannavk](https://github.com/prannavk)
 
-- 📝 I regularly write articles on [https://medium.com/@krishnapk808](https://medium.com/@krishnapk808)
+- 📝 Sometimes I also write about topics or articles on [https://medium.com/@krishnapk808](https://medium.com/@krishnapk808)
 
-- 💬 Ask me about **Core Java**
+- 💬 Ask me about **Core Java, Android, Kotlin and Python**
 
-- 📫 How to reach me **krishnapk@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me: **krishnapk808@gmail.com**
 
 <h3 align="left">Connect with me:</h3><br/>
 <p align="left">
